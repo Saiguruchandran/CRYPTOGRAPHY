@@ -92,6 +92,7 @@ int main() {
 }
  ``` 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/393200cc-1437-4a9a-a7a9-ea4d881ee69f)
 
 
 ## RESULT
